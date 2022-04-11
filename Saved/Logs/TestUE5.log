@@ -771,3 +771,14 @@ Recommended: 511.79
 [2022.04.11-10.22.40:256][764]LogSavePackage: Moving 'D:/Unreal/TestUE5/Saved/TotoC79EB98545082E6D41A3C684391E29DC.tmp' to 'D:/Unreal/TestUE5/Content/Toto.uasset'
 [2022.04.11-10.22.40:278][764]AssetCheck: New page: Asset Save: Toto
 [2022.04.11-10.22.40:278][764]LogContentValidation: Display: Validating Blueprint /Game/Toto.Toto
+[2022.04.11-10.23.47:290][575]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.130 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.11-10.43.57:240][672]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.04.11-10.43.57:245][672]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.04.11-10.43.57:254][673]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2022.04.11-10.44.00:567][925]LogContentBrowser: Attempting asset rename: NewMaterial -> Alexis
+[2022.04.11-10.44.00:686][925]LogContentBrowser: End creating deferred item NewMaterial
+[2022.04.11-10.44.02:584][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis" FILE="D:/Unreal/TestUE5/Content/Alexis.uasset" SILENT=true
+[2022.04.11-10.44.02:585][ 54]LogSavePackage: Moving output files for package: /Game/Alexis
+[2022.04.11-10.44.02:585][ 54]LogSavePackage: Moving 'D:/Unreal/TestUE5/Saved/Alexis989608424741A1BE02C989B15E7317FA.tmp' to 'D:/Unreal/TestUE5/Content/Alexis.uasset'
+[2022.04.11-10.44.02:754][ 54]AssetCheck: New page: Asset Save: Alexis
+[2022.04.11-10.44.02:754][ 54]LogContentValidation: Display: Validating Material /Game/Alexis.Alexis
