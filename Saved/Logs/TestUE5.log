@@ -802,3 +802,8 @@ Recommended: 511.79
 [2022.04.11-10.57.16:274][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.04.11-10.57.16:313][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
 [2022.04.11-10.57.16:385][977]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.04.11-11.01.10:446][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.11-11.01.10:452][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/AP/CAR6U20PZ9YPFVFMDZ80IF_Auto2
+[2022.04.11-11.01.10:452][239]LogSavePackage: Moving '../../../../../Lifeincolor/Unreal/TestUE5/Saved/CAR6U20PZ9YPFVFMDZ80IF_Auto29F4B5765462C1D8A8498609B5FED88D0.tmp' to '../../../../../Lifeincolor/Unreal/TestUE5/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/AP/CAR6U20PZ9YPFVFMDZ80IF_Auto2.uasset'
+[2022.04.11-11.01.10:453][239]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
+[2022.04.11-11.01.10:453][239]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
